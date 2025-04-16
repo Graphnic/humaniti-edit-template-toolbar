@@ -43,10 +43,6 @@ A WordPress plugin that adds an "Edit Template" button to the admin bar for bloc
 - All output is properly escaped
 - Direct file access is prevented
 
-## Development
-
-This plugin is under active development. Issues and pull requests are welcome.
-
 ## License
 
 GPL v2 or later
