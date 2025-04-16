@@ -2,6 +2,8 @@
 
 A WordPress plugin that adds an "Edit Template" button to the admin bar for block themes, allowing direct access to edit the current template in the site editor.
 
+![Screenshot of Edit Template Toolbar](screenshot.png)
+
 ## ⚠️ WARNING
 
 **THIS IS EXPERIMENTAL SOFTWARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.**
